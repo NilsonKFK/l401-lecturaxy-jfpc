@@ -1,4 +1,5 @@
 # Actividad Base: Flask + DataXY
+### Es exactamente el mismo ejercicio de la sesión de aula...
 
 Este repositorio es un ejemplo inicial para practicar con **Flask** y **GitHub**.
 La intensión es que los estudiantes lo usen como punto de partida, lo modifiquen y luego lo suban a su propio repositorio.
